@@ -1,0 +1,21 @@
+#mh47{
+			display: none;
+		}
+	
+.classname1 {
+
+-webkit-animation-name: translate;
+-webkit-animation-duration:10s;
+-webkit-animation-iteration-count:1;
+}
+	@-webkit-keyframes translate{
+	from{
+	-webkit-transform: translate(0px,600px);
+}
+    to{
+	-webkit-transform: translate(1000px,-100px);
+					
+				
+	}
+
+	}
